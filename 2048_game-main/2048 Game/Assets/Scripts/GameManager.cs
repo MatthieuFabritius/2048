@@ -206,6 +206,7 @@ public struct BlockType
 {
     public int Value;
     public Color Color;
+    public Sprite Sprite;
 }
 
 public enum GameState

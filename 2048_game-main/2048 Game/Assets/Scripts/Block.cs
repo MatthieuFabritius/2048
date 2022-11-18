@@ -12,12 +12,15 @@ public class Block : MonoBehaviour
     public Vector2 Pos => transform.position;
     [SerializeField] private SpriteRenderer _renderer;
     [SerializeField] private TextMeshPro _text;
+    
 
     public void Init(BlockType type)
     {
         Value = type.Value;
         _renderer.color = type.Color;
         _text.text = type.Value.ToString();
+        _renderer.sprite = type.Sprite;
+
     }
 
 

@@ -582,24 +582,10 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 'School project during first year of Game Design
-
-
-    E-Artsup Lyon
-
-
-    Game
-    by : Matthieu FABRITIUS
-
-
-    Special thanks to :
-
-
-    - Mylan DE MATEIS for
-    his tips and reviews
-
-    - Jeanne BOUDOURESQUE who gave me  her game and saved
-    my day'
+  m_text: "School project during first year of Game Design\n\nE-Artsup Lyon\n\nGame
+    by : Matthieu FABRITIUS\n\nMusic : Moment Musical N\xB03 , SCHUBERT\n\nSpecial
+    thanks to :\n\n- Mylan DE MATEIS for his tips and reviews\n- Jeanne BOUDOURESQUE
+    who gave me  her game and saved my day"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: c15c81aa82045f04d8bb3a35e9878fff, type: 2}
   m_sharedMaterial: {fileID: 8311910087866534304, guid: c15c81aa82045f04d8bb3a35e9878fff, type: 2}
