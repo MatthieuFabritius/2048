@@ -582,8 +582,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "School project during first year of Game Design\n\nE-Artsup Lyon\n\nGame
-    by : Matthieu FABRITIUS\n\nMusic : Moment Musical N\xB03 , SCHUBERT\n\nSpecial
+  m_text: "School project during first year of Game Design\n\nE-Artsup Lyon\n\nCode,
+    Game Design, Art : Matthieu FABRITIUS\n\nMusic : Moment Musical N\xB03 , SCHUBERT\n\nSpecial
     thanks to :\n\n- Mylan DE MATEIS for his tips and reviews\n- Jeanne BOUDOURESQUE
     who gave me  her game and saved my day"
   m_isRightToLeft: 0
